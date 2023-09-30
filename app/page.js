@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
       <Navbar />
-      <section className="container flex flex-row">
+      <section className=" flex">
         <Sidebar />
 
         <MainContent/>

@@ -1,4 +1,5 @@
 import Form  from './Form';
 import Stories from './Stories';
 import Navigator from './Navigator';
-export { Form, Stories, Navigator };
+import Posts from './Posts';
+export { Form, Stories, Navigator, Posts };

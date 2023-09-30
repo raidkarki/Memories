@@ -2,7 +2,7 @@
 
 const Sidebar = () => {
   return (
-    <div className="w-80">Sidebar</div>
+    <div className="w-[500px] bg-slate-400">Sidebar</div>
   )
 }
 

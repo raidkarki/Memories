@@ -2,7 +2,7 @@
 
 const LiveBar = () => {
   return (
-    <div className="w-80">LiveBar</div>
+    <div className="md:w-[500px]  bg-slate-300">LiveBar</div>
   )
 }
 
